@@ -43,7 +43,7 @@ I tried to the figma .fig file but its way too big so i can't push to github. So
 - Highlight: Efficient coordination on integrating frontend and backend tasks.
 
 #### We also attached the daily scrum file seperately.
-
+- https://metropoliafi-my.sharepoint.com/:w:/g/personal/suph_metropolia_fi/EdYLaL_Z13xGoys24vU-28IBcwiyqoPbzHlEaxNftsYLyw?e=mxsQso  ( in case the file can't download)
 
 ### Sprint Review
 
@@ -71,6 +71,11 @@ I tried to the figma .fig file but its way too big so i can't push to github. So
 ### Collaboration Hightlights
 Smooth coordination between frontend and backend tasks ensured features were integrated without delays.
 
+### presentation slides 
+
+I attached the pdf file but this is the link to powerpoint 
+
+- https://www.canva.com/design/DAGx14alNG4/HXY_miQLPvQUlIWxAgT-Gw/edit?utm_content=DAGx14alNG4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
