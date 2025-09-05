@@ -24,7 +24,7 @@ We are using Trello to manage our Product Backlog. Our board is organized with l
 
 ### User stories & Product backlog
 
-![ screenshot of trello] (../images/trello screenshot.png)
+![screenshot of Trello](images/trello_screenshot.png)
 
 - https://trello.com/invite/b/68a8370ef819da850ebff2dc/ATTI476fe5dc1091c9739b9c37afc67b8ccbB713C285/web-project (link to trello)
 
@@ -41,6 +41,8 @@ I tried to the figma .fig file but its way too big so i can't push to github. So
 
 - Our team held daily meetings to discuss progress, obstacles, and next steps.
 - Highlight: Efficient coordination on integrating frontend and backend tasks.
+
+#### We also attached the daily scrum file seperately.
 
 
 ### Sprint Review
