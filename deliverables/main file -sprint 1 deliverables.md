@@ -33,7 +33,7 @@ We are using Trello to manage our Product Backlog. Our board is organized with l
 ### Prototype
 
 We used figma for prototype
-I tried to the figma .fig file but its way too big so i can't push to github. So this is the ink to figma.
+I tried to the figma .fig file but its way too big so i can't push to github. So this is the link to figma.
 
 - https://www.figma.com/design/sNlNTZwkl8SVj0A9pnPIig/CookEase--Recipe-Sharing-Website?node-id=0-1&t=jjZ8Tnuh3RhhAyZN-1
  
