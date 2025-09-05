@@ -24,7 +24,7 @@ We are using Trello to manage our Product Backlog. Our board is organized with l
 
 ### User stories & Product backlog
 
-![screenshot of Trello](images/trello_screenshot.png)
+![screenshot of Trello](images/trelloscreenshot.png)
 
 - https://trello.com/invite/b/68a8370ef819da850ebff2dc/ATTI476fe5dc1091c9739b9c37afc67b8ccbB713C285/web-project (link to trello)
 
