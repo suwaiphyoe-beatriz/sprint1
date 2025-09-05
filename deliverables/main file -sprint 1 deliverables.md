@@ -57,7 +57,7 @@ I tried to the figma .fig file but its way too big so i can't push to github. So
 
 ### Retrospective
 
-- what Went well: Clear  role assignment, fast prototyping, good collaboration
+- What went well: Clear  role assignment, fast prototyping, good collaboration
 - Areas for improvement:  Keep Trello updated consistently, improve task time estimates.
 - Future action points: Start high-fidelity prototype and plan backend integration
 
@@ -71,7 +71,7 @@ I tried to the figma .fig file but its way too big so i can't push to github. So
 ### Collaboration Hightlights
 Smooth coordination between frontend and backend tasks ensured features were integrated without delays.
 
-### presentation slides 
+### Presentation slides 
 
 I attached the pdf file but this is the link to powerpoint 
 
